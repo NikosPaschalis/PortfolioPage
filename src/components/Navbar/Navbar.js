@@ -6,11 +6,11 @@ function Navigationbar(){
     <Navbar className="sticky"  expand="lg">
       <Navbar.Toggle aria-controls="basic-navbar-nav" />
       <Navbar.Collapse id="basic-navbar-nav">
-        <Nav className="mr-auto">
-          <Nav.Link href="#home">About</Nav.Link>
-          <Nav.Link href="#experience">Experience</Nav.Link>
-          <Nav.Link href="#projects">Projects</Nav.Link>
-          <Nav.Link href="#contact">Contact</Nav.Link>
+        <Nav className="mr-auto" >
+          <Nav.Link style={{color:"white"}} href="#home">About</Nav.Link>
+          <Nav.Link style={{color:"white"}} href="#experience">Experience</Nav.Link>
+          <Nav.Link style={{color:"white"}} href="#projects">Projects</Nav.Link>
+          <Nav.Link style={{color:"white"}} href="#contact">Contact</Nav.Link>
         </Nav>
       </Navbar.Collapse>
     </Navbar>

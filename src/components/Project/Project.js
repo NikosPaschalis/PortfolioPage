@@ -3,7 +3,7 @@ import { Card, Button } from 'react-bootstrap';
 const Project = (props) => (
   
                 <Card style={{ width: '18rem'}}>
-        <Card.Body style = {{backgroundColor: '#EAEDED'}}>
+        <Card.Body style = {{backgroundColor: '#164D56'}}>
         <Card.Title>{props.name}</Card.Title>
             <Card.Text>
             {props.description}

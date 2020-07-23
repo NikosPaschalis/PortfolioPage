@@ -3,7 +3,7 @@
     /* position: fixed; Need to change that because on small devices it disables the burger button*/
     top: 0;
     width: 100%;
-    background-color: #D7DBDD;
+    background-color: #192734;
   
   }
   
@@ -11,5 +11,3 @@
   .sticky + .content {
     padding-top: 60px;
   }
-  
-      
