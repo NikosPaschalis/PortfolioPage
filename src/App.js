@@ -23,10 +23,14 @@ function App() {
         <Row>
             <Col className="spacing" xs={12} md={6} lg={4}>
               <Project name="CodingBooks"
-               description="A personal project about requesting and find coding books." />
+               description="A personal project about requesting and find coding books." gitLink = "https://github.com/NikosPaschalis/FreeCodingBooks"/>
             </Col>
-            <Col className="spacing" xs={12} md={6} lg={4}><Project name="CryptoCompare" description="Simple cryptocompare addOn for google chrome" /></Col>
-            <Col className="spacing" xs={12} md={6} lg={4}><Project name="HackerNews" description="React application fetching articles from hacker news" /></Col>
+            <Col className="spacing" xs={12} md={6} lg={4}>
+              <Project name="CryptoCompare" description="Simple cryptocompare addOn for google chrome" gitLink = "https://github.com/NikosPaschalis/CryptoCompare"/>
+            </Col>
+            <Col className="spacing" xs={12} md={6} lg={4}>
+              <Project name="HackerNews" description="React application fetching articles from hacker news" gitLink = "https://github.com/NikosPaschalis/HackerNews"/>
+            </Col>
         </Row>
         {/* <Row>
           <Col className="spacing" xl={{ span: 4, offset: 4 }}><Project name="Test" description="testing" /></Col>

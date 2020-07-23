@@ -8,7 +8,7 @@ const Project = (props) => (
             <Card.Text>
             {props.description}
             </Card.Text>
-            <Button variant="primary">View GitHub Repo</Button>
+            <a href={props.gitLink}><Button variant="primary">View GitHub Repo</Button></a>
         </Card.Body>
         </Card>
 );

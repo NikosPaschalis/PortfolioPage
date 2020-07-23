@@ -9,7 +9,7 @@ function Contact() {
         <React.Fragment>
             <Row>
                 <Col>
-                    <h1 id="contact">Contact Information</h1>
+                    <h1 id="contact">Contact</h1>
                 </Col>
             </Row>
             <Row>

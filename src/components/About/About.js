@@ -24,7 +24,7 @@ const About = () => (
         <Row>
             <Col xs={12}>
                 <p>
-                    I am a junior web developer with Bs in Computer Science from University of Peloponnese. I created this site from scratch to document and practice what I learn.
+                    I am a junior web developer with BSc in Computer Science from University of Peloponnese. I created this site from scratch to document and practice what I learn.
                     My abundant energy fuels me in the pursuit of many interests, hobbies, areas of study. 
                     I’m a fast learner, able to pick up new skills and juggle different projects and roles with relative ease.
                     Currently looking for opportunities (part-time occupation or full-time job)
