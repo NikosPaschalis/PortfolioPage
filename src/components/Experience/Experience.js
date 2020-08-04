@@ -37,7 +37,10 @@ const Experience = () => (
 				<li>
 					<h5>Internship Aug 2016 - Oct 2016</h5>
 					<div>At Hellenic Telecommunications and Post Commission (EETT)</div>
-					<p>Fusce ullamcorper ligula sit amet quam accumsan aliquet. Sed nulla odio, tincidunt vitae nunc vitae, mollis pharetra velit. Sed nec tempor nibh...</p>
+					<p> Development of an application for electronic management of technical characteristics
+						of radio broadcasts and their radio links.
+						Participation as a member in technical scales of spectrum measurements and antenna system supervision.
+					</p>
 				</li>
 			</ul>
 		</Col>
